@@ -14,8 +14,10 @@
 
 ## [处女座活得到底有多累](https://www.bilibili.com/video/BV16W411A76m?share_source=copy_web)
 
+<!-- <iframe src="//player.bilibili.com/player.html?aid=24498611&bvid=BV16W411A76m&cid=41146360&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> -->
+
 - 本质极其悲观（60%）
-  - 可能只是 做最坏的打算 尽力追求最好的结果
+  - 谨慎型 做最坏的打算 尽力追求最好的结果
 - 自控力超强（70%）
   - 还行
 
@@ -30,7 +32,7 @@
   - 非打分制
   - 遵循 严于律己 宽以待人
 - 不喜欢表达（90%）
-  - 确实 考虑太多 没把握就不表达
+  - 雀实 考虑太多 没把握就不表达
 - 希望别人做出改变（10%）
   - 不至于，每个人都有自己的活法
 - 极其缺乏安全感的人（40%）
@@ -39,6 +41,8 @@
   - 正常人一般水平吧，用真心换真心这句话不错
 
 ## [处女座的最大天赋](https://www.bilibili.com/video/BV1Q5411V7CH?share_source=copy_web)
+
+<!-- <iframe src="//player.bilibili.com/player.html?aid=457806418&bvid=BV1Q5411V7CH&cid=257068386&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> -->
 
 - 做事态度端正（90%）
   - 除了有些不需要态度端正去做的事&不愿去做的事
@@ -50,6 +54,8 @@
 
 ## [处女座最大的坏毛病](https://www.bilibili.com/video/BV1Qv411v79M?share_source=copy_web)
 
+<!-- <iframe src="//player.bilibili.com/player.html?aid=244164499&bvid=BV1Qv411v79M&cid=221137139&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> -->
+
 - 喜欢摆谱（0%）
   - 真没有。。
 - 骄傲 倔强 不认错（1%）
@@ -57,10 +63,11 @@
 
 ## [如何辨别处女座渣男](https://www.bilibili.com/video/BV1sD4y1X7Q5?share_source=copy_web)
 
+<!-- <iframe src="//player.bilibili.com/player.html?aid=712928497&bvid=BV1sD4y1X7Q5&cid=258839092&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> -->
+
 - 特别负责（90%）
   - 有时候责任心过重真的不是一件好事..
 - 渣的部分（不予置评）
-  - 这怎么可能是我..
 
 ## [处女座不为人知的一面](https://www.bilibili.com/video/BV1wf4y1j7w6?share_source=copy_web)
 
@@ -73,6 +80,8 @@
 
 ## [带你走进处女座的内心世界 part 1](https://www.bilibili.com/video/BV1wf4y1j7w6?share_source=copy_web)
 
+<!-- <iframe src="//player.bilibili.com/player.html?aid=291661192&bvid=BV1wf4y1j7w6&cid=370904106&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> -->
+
 - 被动性敏感（50%）
   - 主动性敏感吧，纯属大脑转速太快 不用浪费 所以想的多 结果全是内耗 
 - 内心自我防卫意识强（50%）
@@ -84,6 +93,8 @@
 
 ## [带你走进处女座的内心世界 part 5](https://www.bilibili.com/video/BV1d64y1i7Y4?share_source=copy_web)
 
+<!-- <iframe src="//player.bilibili.com/player.html?aid=759762401&bvid=BV1d64y1i7Y4&cid=389553163&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> -->
+
 - 真正的完美主义者（70%）
   - 虽然不赞同举的例子
-  - 但确实希望自我准则是不断提高的 而不是越来越低（我感觉大多数人应该也是吧）
+  - 但雀实希望自我准则是不断提高的 而不是越来越低（我感觉大多数人应该也是吧）
