@@ -67,7 +67,7 @@
 
 - 特别负责（90%）
   - 有时候责任心过重真的不是一件好事..
-- 渣的部分（不予置评）
+- 渣的部分（简直离谱）
 
 ## [处女座不为人知的一面](https://www.bilibili.com/video/BV1wf4y1j7w6?share_source=copy_web)
 
