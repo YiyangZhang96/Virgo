@@ -14,10 +14,6 @@
 
 ## [处女座活得到底有多累](https://www.bilibili.com/video/BV16W411A76m?share_source=copy_web)
 
-
-<iframe src="//player.bilibili.com/player.html?aid=49823502&bvid=BV19b411G7vD&cid=87235921&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-
 - 本质极其悲观（60%）
   - 可能只是 做最坏的打算 尽力追求最好的结果
 - 自控力超强（70%）
