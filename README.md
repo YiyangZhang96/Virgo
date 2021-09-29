@@ -26,7 +26,7 @@
 <!-- <iframe src="//player.bilibili.com/player.html?aid=49823502&bvid=BV19b411G7vD&cid=87235921&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> -->
 
 - 主观意识特别强（80%）
-  - 对自已：客观认知上构建一套自洽的思维方式和行事逻辑
+  - 对自已：追求构建自洽的思维方式和行事逻辑
   - 对别人：尊重主观感受
 - 打分制的 挑剔&包容（20%）
   - 非打分制
@@ -36,7 +36,7 @@
 - 希望别人做出改变（10%）
   - 不至于，每个人都有自己的活法
 - 极其缺乏安全感的人（40%）
-  - 缺一点，达不到极其的程度
+  - 和正常人一样缺一点，达不到极其的程度
 - 回馈型（60%）
   - 正常人一般水平吧，用真心换真心这句话不错
 
@@ -45,10 +45,10 @@
 <!-- <iframe src="//player.bilibili.com/player.html?aid=457806418&bvid=BV1Q5411V7CH&cid=257068386&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> -->
 
 - 做事态度端正（90%）
-  - 除了有些不需要态度端正去做的事&不愿去做的事
+  - 除了有些不需要态度端正去做的事
 - 规划性（60%）
   - 规划有必要规划的 预则立嘛
-  - 一些事情上 随缘、冲动能提供更多乐趣
+  - 一些事情上 随缘、激情行事能带来更多乐趣
 - 想变强 以及 能变强（80%）
   - 大多数有上进心的人都这样吧
 
@@ -83,7 +83,7 @@
 <!-- <iframe src="//player.bilibili.com/player.html?aid=291661192&bvid=BV1wf4y1j7w6&cid=370904106&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> -->
 
 - 被动性敏感（50%）
-  - 主动性敏感吧，纯属大脑转速太快 不用浪费 所以想的多 结果全是内耗 
+  - 主动性敏感吧，纯属大脑转速太快 不愿意浪费 结果想太多 全是内耗 
 - 内心自我防卫意识强（50%）
   - 不知道正常人是怎样 我应该也就正常人水平吧
 - 细节控（70%）
